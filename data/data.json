@@ -1,0 +1,22 @@
+[
+    {
+        "title": "",
+        "price": "",
+        "description": "",
+        "category": "",
+        "image": {
+            "color": ""
+        },
+        "amount": 1,
+        "reviews": [
+            {
+                "userId": "",
+                "review": ""
+            }
+        ],
+        "rating": {
+            "rate": 1,
+            "count": 10
+        }
+    }
+]
