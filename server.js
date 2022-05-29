@@ -5,7 +5,7 @@ import cors from "cors";
 
 // App Config
 const app = express();
-const port = process.env.PORT || 8001;
+const port = process.env.PORT || 8000;
 const connectionUrl =
     "mongodb+srv://admin:VgSkw0gCTL33Mttc@cluster0.gxtcu.mongodb.net/myShopDB?retryWrites=true&w=majority";
 
